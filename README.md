@@ -1,4 +1,4 @@
-# Towards-Global-Aerobic-Activity-Monitoring
+# Towards-Global-Aerobic-Activity-Monitoring with Spark
 
 ## Dataset
 https://archive.ics.uci.edu/ml/datasets/PAMAP2+Physical+Activity+Monitoring
